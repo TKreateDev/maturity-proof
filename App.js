@@ -9,9 +9,9 @@ function HomeScreen() {
     <NativeBaseProvider>
       <Box flex={1} alignItems={"center"} justifyContent={"center"}>
         <VStack flex={1} alignItems={'center'} justifyContent={"center"}>
-          <Box>Hello world</Box>
-          <Box>Hello world</Box>
-          <Box>Hello world</Box>
+          <Box>Hello world 1</Box>
+          <Box>Hello world 2</Box>
+          <Box>Hello world 3</Box>
         </VStack>
       </Box>
     </NativeBaseProvider>

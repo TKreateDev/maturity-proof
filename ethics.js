@@ -1,4 +1,4 @@
-const ethics =[
+const ethics = [
     {
         topic:'Ethics',
         subtopics: [
@@ -35,7 +35,7 @@ const ethics =[
                     },
                     {
                         level: '4: Leading',
-                        questions: 'Partner with expert organization for due diligence',
+                        statement: 'Partner with expert organization for due diligence',
                     },
                 ],
             },
@@ -119,19 +119,19 @@ const ethics =[
                 questions: [
                     {
                         level: '1: Starting',
-                        questions: 'Start developing specific training and awareness program for target positions',
+                        statement: 'Start developing specific training and awareness program for target positions',
                     },
                     {
                         level: '2: Developing',
-                        questions: 'Key functions and positions crucial for an ethical business culture identified (e.g. compliance, sourcing, Sales & Mktg, HR and executive position) for mandatory training and declaration',
+                        statement: 'Key functions and positions crucial for an ethical business culture identified (e.g. compliance, sourcing, Sales & Mktg, HR and executive position) for mandatory training and declaration',
                     },
                     {
                         level: '3: Implementing',
-                        questions: 'Yearly awareness training in the ethics element mandatory for all employees',
+                        statement: 'Yearly awareness training in the ethics element mandatory for all employees',
                     },
                     {
                         level: '4: Leading',
-                        questions: '(Coming Soon)',
+                        statement: '(Coming Soon)',
                     },
                 ],
             },
